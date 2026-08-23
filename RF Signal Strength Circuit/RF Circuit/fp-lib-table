@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "C:/Users/brian/Desktop/Kicad Projects/RF Signal Strength Circuit/Imported Schematics/easyeda2kicad.pretty") (options "") (descr ""))
+)

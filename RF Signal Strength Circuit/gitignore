@@ -1,0 +1,7 @@
+# KiCad backup history folders
+.history/
+**/.history/
+
+# KiCad lock files
+*.lck
+**/*.lck
