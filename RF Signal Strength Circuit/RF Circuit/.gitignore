@@ -18,7 +18,7 @@
 !fp-lib-table
 !sym-lib-table
 
-# --- Allow this file and a README if you have one ---
+# --- Allow this file and a README ---
 !.gitignore
 !README*
 !readme*

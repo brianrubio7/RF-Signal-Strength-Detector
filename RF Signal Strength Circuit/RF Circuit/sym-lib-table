@@ -1,4 +1,6 @@
 (sym_lib_table
 	(version 7)
 	(lib (name "easyeda2kicad") (type "KiCad") (uri "C:/Users/brian/Desktop/Kicad Projects/RF Signal Strength Circuit/Imported Schematics/easyeda2kicad.kicad_sym") (options "") (descr ""))
+	(lib (name "sx1211_parts") (type "KiCad") (uri "C:/Users/brian/Desktop/Kicad Projects/RF Signal Strength Circuit/Imported Schematics/sx1211_parts.kicad_sym") (options "") (descr ""))
+	(lib (name "saw_filter") (type "KiCad") (uri "C:/Users/brian/Desktop/Kicad Projects/RF Signal Strength Circuit/Imported Schematics/saw_filter.kicad_sym") (options "") (descr ""))
 )

@@ -260,7 +260,28 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_not_driven|1231900|2463800|79d41fb9-0221-47a5-91fb-5a9401e230c9|00000000-0000-0000-0000-000000000000|/af011bba-db0c-4960-a8e9-b2bed284cdfa|/af011bba-db0c-4960-a8e9-b2bed284cdfa|",
+        ""
+      ],
+      [
+        "pin_not_driven|1231900|2489200|5fdcbde3-7399-4653-b770-c3b730696eec|00000000-0000-0000-0000-000000000000|/af011bba-db0c-4960-a8e9-b2bed284cdfa|/af011bba-db0c-4960-a8e9-b2bed284cdfa|",
+        ""
+      ],
+      [
+        "pin_not_driven|927100|1955800|d599ac30-819f-46cd-ad76-56e4fd4c37ce|00000000-0000-0000-0000-000000000000|/af011bba-db0c-4960-a8e9-b2bed284cdfa|/af011bba-db0c-4960-a8e9-b2bed284cdfa|",
+        ""
+      ],
+      [
+        "pin_not_driven|927100|1981200|bddc68ce-bf6e-46d4-9b92-f936efb480ad|00000000-0000-0000-0000-000000000000|/af011bba-db0c-4960-a8e9-b2bed284cdfa|/af011bba-db0c-4960-a8e9-b2bed284cdfa|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2082800|1892300|337cb883-fb19-4c07-8fbf-1f29705ff729|00000000-0000-0000-0000-000000000000|/af011bba-db0c-4960-a8e9-b2bed284cdfa|/af011bba-db0c-4960-a8e9-b2bed284cdfa|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -648,13 +669,17 @@
         "uuid": "af011bba-db0c-4960-a8e9-b2bed284cdfa"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U4-5,SAW1,C2,C5-8,C10,C23-24,L1-2,L5,AE2,#PWR19-25,R1",
     "variants": []
   },
   "sheets": [
     [
       "af011bba-db0c-4960-a8e9-b2bed284cdfa",
       "RF Circuit"
+    ],
+    [
+      "ef0df5b6-83f4-41ef-b00e-6ce9a4fb1b4a",
+      "RF Connections"
     ]
   ],
   "text_variables": {},
